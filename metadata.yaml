@@ -1,0 +1,45 @@
+_repo: Our-Little-Cuban-Cousin_43636
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bridgman, L. J. (Lewis Jesse)
+    aliases:
+    - Bridgeman, Lewis Jesse
+    - Bridgman, Lewis Jesse
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '8122'
+    url: http://www.gutenberg.org/2009/agents/8122
+covers:
+- cover_type: archival
+  image_path: 43636-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wade, Mary Hazelton Blanchard
+    alias: Wade, Mary Hazleton
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '5065'
+    url: http://www.gutenberg.org/2009/agents/5065
+description: ''
+gutenberg_issued: '2013-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National characteristics, Cuban -- Juvenile fiction'
+- !lcsh 'Parent and child -- Juvenile fiction'
+- !lcsh 'Children -- Cuba -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Cuba -- Juvenile fiction'
+- !lcsh 'Play -- Juvenile fiction'
+- !lcsh 'Cuba -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Amusements -- Juvenile fiction'
+title: Our Little Cuban Cousin
+url: http://www.gutenberg.org/ebooks/43636
